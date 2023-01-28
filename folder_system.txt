@@ -4,3 +4,15 @@
 └── info_sistema.txt
 
 0 directories, 3 files
+.
+├── ejemplo.txt
+├── folder_system.txt
+└── info_sistema.txt
+
+0 directories, 3 files
+.
+├── ejemplo.txt
+├── folder_system.txt
+└── info_sistema.txt
+
+0 directories, 3 files
