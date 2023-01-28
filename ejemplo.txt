@@ -1,1 +1,4 @@
-hello world!
+[Archivo de Ejemplo]
+
+Datos vacios.
+------> hello world!
